@@ -1,4 +1,7 @@
-a=10
-b=22
-c=a+b
-print(c)
+a = float(input("Enter the first number: "))
+b = float(input("Enter the second number: "))
+
+print("Addition:", a + b)
+print("Subtraction:", a - b)
+print("Multiplication:", a * b)
+print("Division:", a / b if b != 0 else "Undefined (division by zero)")
