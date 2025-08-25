@@ -1,4 +1,4 @@
-#Basic Mathematical Operations
+#Task 1: Basic Mathematical Operations
 
 a = float(input("Enter the first number: "))
 b = float(input("Enter the second number: "))
